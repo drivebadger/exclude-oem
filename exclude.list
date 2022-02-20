@@ -1,0 +1,49 @@
+mnt/AMD
+mnt/ATI
+mnt/dell
+mnt/Dell
+mnt/drivers
+mnt/Drivers
+mnt/Fujitsu
+mnt/Intel
+mnt/OEM
+
+Microsoft/OEMOffice14
+Microsoft/OEMOffice15
+Microsoft/Windows/RetailDemo/OfflineContent
+
+Program Files/Acer
+Program Files/Creative
+Program Files/Dell
+Program Files/Intel
+Program Files/NVIDIA Corporation
+Program Files/Realtek
+Program Files/Synaptics
+Program Files/WIDCOMM
+
+Program Files (x86)/Acer
+Program Files (x86)/Creative
+Program Files (x86)/CyberLink
+Program Files (x86)/Dell
+Program Files (x86)/Dell Digital Delivery Services
+Program Files (x86)/Intel
+Program Files (x86)/NVIDIA Corporation
+Program Files (x86)/Realtek
+Program Files (x86)/SanDisk
+
+Common Files/Intel
+Creative/Software Update
+Intel/Package Cache
+Lenovo/ImController
+Lenovo/UserGuide
+NVIDIA/ComputeCache
+NVIDIA Corporation/Downloader
+Samsung/Samsung Magician
+SteelSeries/SteelSeries Engine 3
+
+Intel.sav/
+Intel Package Cache {*}/
+
+HP/Documentation
+HP/HP LaserJet */
+HP/HP Officejet */
